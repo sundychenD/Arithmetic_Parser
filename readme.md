@@ -1,6 +1,6 @@
 # Arithmetic Parser
 ---
-A basic arithmetic parser written in Python. Parsing the string into into AST then evaluate.
+A basic arithmetic parser written in Python. Parsing the string into Abstract Syntax Tree then evaluate.
 ---
 
 Operator Supported
