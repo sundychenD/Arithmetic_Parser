@@ -1,8 +1,7 @@
 # Arithmetic Parser
-===
-
+---
 A basic arithmetic parser written in Python. Parsing the string into into AST then evaluate.
-===
+---
 
 Operator Supported
 `+, -, *, /`
