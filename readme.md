@@ -2,6 +2,8 @@
 ---
 A basic arithmetic parser written in Python. Parsing the string into Abstract Syntax Tree then evaluate.
 ---
+Evaluating Process:
+String => Lexical Analyzer => Build AST => Recursive Evaluate
 
 Operator Supported
 `+, -, *, /`
